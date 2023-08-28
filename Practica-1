@@ -5,8 +5,9 @@ class ListaPersonas{
 	persona1= new Persona(17,"nombre1",0);
 	persona2= new Persona(18,"nombre2",1);
 	persona3= new Persona(19,"nombre3",1);	
-	}
+
 	Persona.calcularEdadPromedio;
+	}
 }
 
 class Persona{
